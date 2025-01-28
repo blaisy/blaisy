@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Elia and I'm a Full Stack programmer, from Italy 🇮🇹</p>
+<p align="left">My name is Elia and I'm a Full Stack developer from Italy 🇮🇹</p>
 
 ###
 
